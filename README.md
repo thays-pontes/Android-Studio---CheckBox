@@ -1,6 +1,6 @@
 # 🛒 Aplicativo de Compras com CheckBox - Android
 
-Este é um projeto Android simples desenvolvido em Java utilizando `CheckBox` para selecionar itens de compras e calcular o valor total. O aplicativo apresenta uma interface amigável e personalizada com uma paleta de cores moderna.
+Este é um projeto Android simples desenvolvido em Kotlin utilizando `CheckBox` para selecionar itens de compras e calcular o valor total. O aplicativo apresenta uma interface amigável e personalizada com uma paleta de cores moderna.
 
 ## 📱 Funcionalidades
 
